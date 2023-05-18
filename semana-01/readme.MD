@@ -1,6 +1,17 @@
 # Semana 01
 
 
+### Aplicativo Guia de Terapêutica Medicamentosa
+
+<img src="https://play-lh.googleusercontent.com/pHMueDBYKqqviK1pyCnaeduBrGYnG7DVrx3MaIOTWDa1wYHAFHpus4TimpeoFNZTJoA=w240-h480">
+
+
+Indicados para acadêmicos e profissionais da área da Odontologia. 
+Guia prático e objetivo para consulta rápida dos principais medicamentos e protocolos medicamentosos indicados na clínica odontológica. 
+
+#### Lojas Oficial
+- [Google Play]([https://play.google.com/store/apps/details?id=br.com.univille.fabricasoftware.passaporteculturalsaochico.app&pli=1](https://play.google.com/store/apps/details?id=br.edu.univille.guiaterapeutico&hl=pt_BR&gl=US))
+
 ### Aplicativo Passaporte Cultural São Francisco do Sul
 
 <img src="http://www.visitesaofranciscodosul.com.br/img/conteudo/images/PASSAPORTE%20CULTURAL_APROVADO_ABR2022_CDR17%20(2).jpg">
