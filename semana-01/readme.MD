@@ -10,7 +10,7 @@ Indicados para acadêmicos e profissionais da área da Odontologia.
 Guia prático e objetivo para consulta rápida dos principais medicamentos e protocolos medicamentosos indicados na clínica odontológica. 
 
 #### Lojas Oficial
-- [Google Play]([https://play.google.com/store/apps/details?id=br.com.univille.fabricasoftware.passaporteculturalsaochico.app&pli=1](https://play.google.com/store/apps/details?id=br.edu.univille.guiaterapeutico&hl=pt_BR&gl=US))
+- [Google Play](https://play.google.com/store/apps/details?id=br.edu.univille.guiaterapeutico&hl=pt_BR&gl=US)
 
 ### Aplicativo Passaporte Cultural São Francisco do Sul
 
