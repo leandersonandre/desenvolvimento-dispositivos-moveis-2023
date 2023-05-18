@@ -1,7 +1,7 @@
 # Semana 01
 
 
-### Aplicativo Passaporte Cultural São Franscico do Sul
+### Aplicativo Passaporte Cultural São Francisco do Sul
 
 <img src="http://www.visitesaofranciscodosul.com.br/img/conteudo/images/PASSAPORTE%20CULTURAL_APROVADO_ABR2022_CDR17%20(2).jpg">
 
