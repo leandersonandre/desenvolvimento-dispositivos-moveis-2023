@@ -5,22 +5,20 @@ Repositório para materiais da disciplina de Desenvolvimento de Dispositivos Mó
 
 ## Sumário
 
-<details>
-  <summary><b>Semana 01: </b></summary>
-  
-</details>
+- ✅ [Semana 01:](semana-01/readme.MD) 
 
-<details><summary><b>Semana 02: </b></summary>
-</details>
+- Semana 02:
 
-<details><summary><b>Semana 03: </b></summary></details>
+- Semana 03:
 
-<details><summary><b>Semana 04: </b></summary></details>
+- Semana 04:
 
-<details><summary><b>Semana 05: </b></summary></details>
+- Semana 05:
 
-<details><summary><b>Semana 06: </b></summary></details>
+- Semana 06:
 
-<details><summary><b>Semana 07: </b></summary></details>
+- Semana 07:
 
-<details><summary><b>Semana 08: </b></summary></details>
+- Semana 08:
+
+
