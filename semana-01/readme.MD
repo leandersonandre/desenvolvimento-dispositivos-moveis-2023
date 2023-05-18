@@ -16,4 +16,4 @@ Conheça alguns pontos tombados pelo Instituto do Patrimônio Histórico Artíst
 
 #### Lojas Oficiais
 - [Google Play](https://play.google.com/store/apps/details?id=br.com.univille.fabricasoftware.passaporteculturalsaochico.app&pli=1)
-- [App Store]()
+- [App Store](https://apps.apple.com/br/app/passaporte-cultural-são-chico/id1661316182?l=enPlayStore:)
